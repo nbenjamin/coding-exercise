@@ -16,7 +16,6 @@ public class LinkedListSumReversed {
         ListNode next;
 
         public ListNode() {
-
         }
 
         public ListNode(int val, ListNode next) {
